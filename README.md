@@ -1,27 +1,27 @@
-# 💻 Gervase Burkett – IT Support Specialist
+# Gervase Burkett – IT Support Specialist
 
 **Resourceful IT Support Specialist** with 6+ years of experience delivering enterprise-grade support across hardware, software, and network environments. Certified in CompTIA A+, Google IT Support, Systems Administration & IT Infrastructure, and Wireless Technician Series. Proficient in root cause analysis, remote diagnostics, and escalation handling. Adept at supporting Microsoft 365, ServiceNow, Active Directory, MDM solutions, and hybrid environments.
 
 ---
 
-## 🧠 Core Skills
+## Core Skills
 
-- 🔧 Troubleshooting & Root Cause Analysis  
-- 💻 Hardware & Software Deployment  
-- 🌐 Network Configuration (DNS, DHCP, Routers, Switches)  
-- 🧑‍💼 Active Directory & Identity Access Management  
-- 🎫 Ticketing Systems (ServiceNow, JIRA)  
-- 📱 Mobile Device Management (JAMF, Apple Business Manager)  
-- 🌍 Remote & On-Site Technical Support (RDP, TeamViewer, AnyDesk)  
-- 🧾 Microsoft 365 & SharePoint Administration  
-- 📝 Technical Documentation & Knowledge Base Development  
-- 🖥️ Operating Systems: Windows, macOS & Linux  
-- 📊 Basic Salesforce Support & CRM Familiarity  
-- 🤝 Customer Service & Cross-Team Collaboration  
+- Troubleshooting & Root Cause Analysis
+- Hardware & Software Deployment  
+- Network Configuration (DNS, DHCP, Routers, Switches)  
+- Active Directory & Identity Access Management  
+- Ticketing Systems (ServiceNow, JIRA)  
+- Mobile Device Management (JAMF, Apple Business Manager)  
+- Remote & On-Site Technical Support (RDP, TeamViewer, AnyDesk)  
+- Microsoft 365 & SharePoint Administration  
+- Technical Documentation & Knowledge Base Development  
+- Operating Systems: Windows, macOS & Linux  
+- Basic Salesforce Support & CRM Familiarity  
+- Customer Service & Cross-Team Collaboration  
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
 - **CompTIA A+** (Active: 12/2024 – 12/2027)  
 - **Google IT Support Professional Certificate**  
@@ -30,9 +30,9 @@
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
-### 🔧 Technical Support Engineer  
+### Technical Support Engineer  
 **UbreakIfix by Asurion** – New York, NY | *Jan 2025 – Present*  
 - Resolved 95%+ of Tier 1 and Tier 2 technical incidents on first contact  
 - Maintained a 98% post-service customer satisfaction rating  
@@ -41,7 +41,7 @@
 
 ---
 
-### 🛠️ IT Technical Specialist (On-Site and Field Technician)  
+### IT Technical Specialist (On-Site and Field Technician)  
 **Ministry of Education** – Trinidad & Tobago | *Oct 2021 – Sep 2023*  
 - Reduced ticket resolution time by 40% using proactive escalation and scripting  
 - Led SharePoint onboarding workshops for 100+ users  
@@ -51,7 +51,7 @@
 
 ---
 
-### 👨‍💼 Owner & IT Administrator  
+### Owner & IT Administrator  
 **GKB Mobile Repairs** – Trinidad & Tobago | *Aug 2019 – Present*  
 - Delivered technical repairs with 95%+ client return rate  
 - Developed SOPs and scripts to standardize operations  
@@ -60,7 +60,7 @@
 
 ---
 
-### 💼 Sales Representative & Repair Technician  
+### Sales Representative & Repair Technician  
 **iWorld TT & UBreakiFix** – Trinidad & Tobago | *Aug 2019 – Apr 2021*  
 - Surpassed monthly repair and upsell KPIs  
 - Maintained 92% first-pass yield on diagnostics  
@@ -68,7 +68,7 @@
 
 ---
 
-### 💡 IT Support / Junior Technician (Intern)  
+### IT Support / Junior Technician (Intern)  
 **Caribbean Tech Trendz / Maple Leaf International School**  
 Trinidad & Tobago | *Jul 2017 – Feb 2019*  
 - Resolved 85%+ of helpdesk tickets independently  
@@ -78,9 +78,9 @@ Trinidad & Tobago | *Jul 2017 – Feb 2019*
 
 ---
 
-## 🧪 Projects
+## Projects
 
-### 📌 SharePoint-Based Ticketing System  
+### SharePoint-Based Ticketing System  
 **Ministry of Education**  
 - Designed a custom SharePoint-based case management system  
 - Enabled SLA tracking, prioritization, and compliance  
@@ -88,7 +88,7 @@ Trinidad & Tobago | *Jul 2017 – Feb 2019*
 
 ---
 
-## 🎓 Education
+## Education
 
 **Bachelor of Science in Computer Information Systems**  
 *Monroe College – Bronx, NY*  
