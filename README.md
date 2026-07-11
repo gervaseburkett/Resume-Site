@@ -1,4 +1,4 @@
-# Gervase Burkett – IT Support Specialist
+# Gervase Burkett – Enterprise IT and AV Systems Engineer
 
 **Enterprise IT & AV Systems Engineer** with more than six years of experience delivering enterprise technology solutions across hospitality, government, education, and consumer technology environments.
 Experienced in enterprise infrastructure, Microsoft 365, Active Directory, networking, conference room technology, endpoint management, hospitality technology, executive support, and audiovisual engineering.
