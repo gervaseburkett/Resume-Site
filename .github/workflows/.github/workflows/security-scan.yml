@@ -1,0 +1,97 @@
+name: 🔒 Portfolio Security Scan
+
+on:
+  push:
+    branches:
+      - main
+
+  pull_request:
+    branches:
+      - main
+
+  workflow_dispatch:
+
+  schedule:
+    # Every Monday at 8:00 UTC
+    - cron: '0 8 * * 1'
+
+permissions:
+  actions: read
+  contents: read
+  security-events: write
+
+jobs:
+  security-scan:
+    name: Security Scan
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: 🔍 Run OSV Scanner
+        id: osv
+        uses: google/osv-scanner-action@v2
+        continue-on-error: true
+
+      - name: 📄 Create Scan Report
+        run: |
+          mkdir -p reports
+
+          echo "# Security Scan Report" > reports/security-report.md
+          echo "" >> reports/security-report.md
+          echo "**Repository:** ${{ github.repository }}" >> reports/security-report.md
+          echo "**Branch:** ${{ github.ref_name }}" >> reports/security-report.md
+          echo "**Commit:** ${{ github.sha }}" >> reports/security-report.md
+          echo "**Triggered By:** ${{ github.actor }}" >> reports/security-report.md
+          echo "**Date:** $(date)" >> reports/security-report.md
+          echo "" >> reports/security-report.md
+          echo "---" >> reports/security-report.md
+          echo "" >> reports/security-report.md
+          echo "OSV Scanner completed." >> reports/security-report.md
+          echo "" >> reports/security-report.md
+          echo "View full workflow logs in GitHub Actions." >> reports/security-report.md
+
+      - name: 📦 Upload Security Report
+        uses: actions/upload-artifact@v4
+        with:
+          name: Security-Report
+          path: reports/security-report.md
+
+      - name: 📧 Email Report
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_APP_PASSWORD }}
+
+          subject: "GitHub Portfolio Security Scan"
+
+          to: ${{ secrets.EMAIL_TO }}
+
+          from: GitHub Security Bot
+
+          body: |
+            Hello,
+
+            Your scheduled GitHub security scan has completed.
+
+            Repository:
+            ${{ github.repository }}
+
+            Branch:
+            ${{ github.ref_name }}
+
+            Commit:
+            ${{ github.sha }}
+
+            The security report has been generated.
+
+            View workflow:
+            https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+
+          attachments: reports/security-report.md
+          echo test, and deploy your project.
