@@ -1,6 +1,6 @@
 # Gervase Burkett – IT Support Specialist
 
-** Enterprise IT & AV Systems Engineer with more than six years of experience delivering enterprise technology solutions across hospitality, government, education, and consumer technology environments.
+**Enterprise IT & AV Systems Engineer with more than six years of experience delivering enterprise technology solutions across hospitality, government, education, and consumer technology environments.
 Experienced in enterprise infrastructure, Microsoft 365, Active Directory, networking, conference room technology, endpoint management, hospitality technology, executive support, and audiovisual engineering.
 Proven success deploying Microsoft Teams Rooms, Zoom Rooms, Crestron systems, RoomNet hospitality technology, enterprise networking, ServiceNow, POS infrastructure, and digital collaboration technologies while maintaining exceptional customer experiences across multi-site organizations.
 Known for improving operational efficiency, leading enterprise technology deployments, reducing downtime, and providing white-glove support for executives and high-profile business events.
