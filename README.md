@@ -32,12 +32,32 @@
 
 ## Professional Experience
 
+
+### IT FIELD ENGINEER
+**Intercity Technology Ltd** - Supporting Soho House North America | *November 2025 – Present*
+Enterprise technology support across hospitality, coworking, food & beverage, and executive environments.
+Major Achievements
+- Support enterprise technology across 3 Soho House locations and 3 Soho Works locations throughout North America.
+- Lead deployment, configuration, testing, and production validation of Microsoft Teams Rooms, Zoom Rooms, and Crestron-controlled collaboration spaces.
+- Successfully deployed two enterprise conference room environments supporting executive meetings and hybrid collaboration.
+- Supported technology implementation for The Eventide Oyster Co. opening, ensuring all critical systems were operational before launch.
+- Completed three enterprise infrastructure and audiovisual deployment projects supporting technology modernization initiatives.
+- Configure and support RoomNet hospitality systems, including guest room technology, displays, entertainment platforms, and room controls.
+- Manage enterprise endpoints, POS terminals, printers, scanners, tablets, mobile devices, and user workstations across multiple hospitality locations.
+- Configure DSP audio systems, including microphone arrays, echo cancellation, speaker tuning, and audio routing.
+- Deploy digital signage, wireless presentation technologies, displays, and audiovisual equipment.
+- Troubleshoot enterprise networking issues involving Wi-Fi, TCP/IP, DNS, DHCP, VLANs, and IP-addressed AV devices.
+- Partner with Network Engineering teams during infrastructure upgrades and enterprise deployments.
+- Provide white-glove executive support for board meetings, executive leadership, member events, and high-profile business presentations.
+- Manage ServiceNow incidents while consistently meeting SLA expectations.
+- Perform preventative maintenance, infrastructure health checks, and technology refresh projects.
+
 ### Technical Support Engineer  
 **UbreakIfix by Asurion** – New York, NY | *Jan 2025 – Present*  
 - Resolved 95%+ of Tier 1 and Tier 2 technical incidents on first contact  
 - Maintained a 98% post-service customer satisfaction rating  
 - Redesigned workflows, reducing average turnaround by 30%  
-- Implemented digital inventory system improving tracking accuracy by 20%
+- Implemented digital inventory system, improved tracking accuracy by 20%
 
 ---
 
