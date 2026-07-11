@@ -1,23 +1,58 @@
 # Gervase Burkett – IT Support Specialist
 
-**Resourceful IT Support Specialist** with 6+ years of experience delivering enterprise-grade support across hardware, software, and network environments. Certified in CompTIA A+, Google IT Support, Systems Administration & IT Infrastructure, and Wireless Technician Series. Proficient in root cause analysis, remote diagnostics, and escalation handling. Adept at supporting Microsoft 365, ServiceNow, Active Directory, MDM solutions, and hybrid environments.
+** Enterprise IT & AV Systems Engineer with more than six years of experience delivering enterprise technology solutions across hospitality, government, education, and consumer technology environments.
+Experienced in enterprise infrastructure, Microsoft 365, Active Directory, networking, conference room technology, endpoint management, hospitality technology, executive support, and audiovisual engineering.
+Proven success deploying Microsoft Teams Rooms, Zoom Rooms, Crestron systems, RoomNet hospitality technology, enterprise networking, ServiceNow, POS infrastructure, and digital collaboration technologies while maintaining exceptional customer experiences across multi-site organizations.
+Known for improving operational efficiency, leading enterprise technology deployments, reducing downtime, and providing white-glove support for executives and high-profile business events.
 
 ---
 
 ## Core Skills
 
-- Troubleshooting & Root Cause Analysis
-- Hardware & Software Deployment  
-- Network Configuration (DNS, DHCP, Routers, Switches)  
-- Active Directory & Identity Access Management  
-- Ticketing Systems (ServiceNow, JIRA)  
-- Mobile Device Management (JAMF, Apple Business Manager)  
-- Remote & On-Site Technical Support (RDP, TeamViewer, AnyDesk)  
-- Microsoft 365 & SharePoint Administration  
-- Technical Documentation & Knowledge Base Development  
-- Operating Systems: Windows, macOS & Linux  
-- Basic Salesforce Support & CRM Familiarity  
-- Customer Service & Cross-Team Collaboration  
+## Enterprise Infrastructure
+• Active Directory
+• Microsoft 365
+• Windows
+• macOS
+• Linux
+• Apple Business Manager
+• Jamf
+• ServiceNow
+• Endpoint Management
+• Device Provisioning
+
+## Enterprise Networking
+• TCP/IP
+• DNS
+• DHCP
+• VLANs
+• Wi-Fi
+• Routing & Switching
+• Structured Cabling
+• Network Troubleshooting
+
+## Enterprise AV
+• Microsoft Teams Rooms
+• Zoom Rooms
+• Crestron
+• DSP Audio
+• RoomNet
+• Digital Signage
+• ClickShare
+• Conference Room Technology
+• Wireless Presentation Systems
+• Executive AV Support
+
+## IT Operations
+• Incident Management
+• Root Cause Analysis
+• Asset Management
+• Preventive Maintenance
+• Technical Documentation
+• Change Management
+• SLA Compliance
+• Executive Support
+
 
 ---
 
